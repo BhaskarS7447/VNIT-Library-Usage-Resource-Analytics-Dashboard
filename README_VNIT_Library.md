@@ -59,5 +59,4 @@ B.Tech Metallurgical and Materials Engineering, VNIT Nagpur
 Email: bt22mme110@students.vnit.ac.in  
 GitHub: https://github.com/BhaskarS7447
 
-## 🪪 License
-MIT
+
